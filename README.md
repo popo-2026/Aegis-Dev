@@ -45,5 +45,5 @@ Make sure you have **Node.js** installed on your machine (`node -v`).
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/cybershield.git](https://github.com/your-username/cybershield.git)
+git clone [https://github.com/popo-2026/cybershield.git](https://github.com/popo-2026/cybershield.git)
 cd cybershield
