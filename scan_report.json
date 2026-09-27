@@ -1,0 +1,15 @@
+{
+  "module": "Member 1 - Code Scanner",
+  "status": "completed",
+  "filesScanned": 1,
+  "vulnerabilitiesFound": 1,
+  "details": [
+    {
+      "type": "Hardcoded Secret / API Key",
+      "severity": "Critical",
+      "file": "sample_config.js",
+      "description": "Plaintext credential found in source code."
+    }
+  ],
+  "timestamp": "2026-09-26T15:08:59.100Z"
+}

@@ -1,0 +1,6 @@
+{
+  "authentication": true,
+  "encryption": true,
+  "logging": true,
+  "access_control": true
+}
